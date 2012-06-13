@@ -1,0 +1,40 @@
+@font-face {
+	font-family: Museo_Slab_500;
+	src: url('../fonts/Museo_Slab_500.otf');}
+html {font-family:arial, helvetica, sans-serif; font-size:11px; color:#333333; background-color:#006699;}
+body {margin-top: 0px;}
+.wrapper {width: 950px; margin: 0 auto; -moz-box-shadow: 0px 0px 20px #222222; -webkit-box-shadow: 0px 0px 20px #222222; box-shadow: 0px 0px 20px 
+
+#222222;}
+.header {padding: 20 25 20 25; width: 900px; background-color: #0099cc; font-family: Museo_Slab_500; color: #ffffff;}
+h1 {font-size: 36px; margin: 0px; font-weight: normal;}
+h2 {font-size: 20px; font-weight: normal; margin: 0px;}
+h3 {font-size: 24px; border-bottom:solid 1px #bbbbbb; font-weight: normal;}
+h4 {font-size: 16px; font-weight: bold; font-color: #333333;}
+.main {padding: 20 25 20 25; width: 900px; background-color: #ffffff; font-family:arial, helvetica, sans-serif; font-size:12px;}
+table {width: 100%; font-family: arial, helvetica, sans-serif; font-size:12px; border:0px; padding:0px; 
+spacing:0px;}
+a:link {color:#777777; text-decoration:none;}
+a:visited {color:#777777; text-decoration:none;}
+a:hover {color:#004488; text-decoration:underline;}
+th {border-bottom:solid 1px #bbbbbb; text-align: left; font-size: 16px;}
+td {padding-bottom: 10px;}
+.backnav-top {margin: 0px 0px 20px 0px;}
+.backnav-bottom {margin: 100px 0px 20px 0px;}
+.rate {height: 30px;}
+.rate-left {float: left;}
+.rate-right {float: left; padding: 22px 0px 0px 10px;}
+.review {clear: both;}
+.main-page tr:hover {background-color: #eeeeee;}
+.report-abuse {font-size:10px;}
+.img {border: 0px none;}
+
+.footer {width: 900px; height: 100px; background-color: #333333; color: #bbbbbb; font-size: 12px; padding: 20 25 20 25;}
+.footer-section {float: left; width: 250px; padding-right: 50px;}
+.footer-section div {clear: both; width: 250px;}
+.button {clear: none; float: left; padding-right: 36px;}
+.footer h2 {float: left; font-family: Museo_Slab_500; font-size: 20px; color: #ffffff;}
+.footer a {color: #ffffff;}
+
+#error {color:red;font-size:10px;display:none;}
+#error2 {color:red;font-size:10px;display:none;}
